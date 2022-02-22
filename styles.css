@@ -1,0 +1,19 @@
+/* styles.css */
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+img {
+    border-radius: 5%;
+}
+
+h1 {
+    background-color: bisque;
+}
+
+#version2 {
+    background-color: goldenrod;
+    font-size: 20px;
+    color:teal;
+}
